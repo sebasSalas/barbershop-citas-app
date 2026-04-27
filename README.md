@@ -9,5 +9,3 @@ Aplicación web desarrollada como proyecto académico para la gestión de citas.
 
 ## Tecnologías
 - HTML
-- CSS
-- JavaScript
